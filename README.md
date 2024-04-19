@@ -42,11 +42,11 @@ while True:
 
 Client
 
-![ex3bclient](https://github.com/ikeerthivasanswaminathan/3b_CHAT_USING_TCP_SOCKETS/assets/148937372/72551f2d-c8c5-4e10-9487-e759813a3bbb)
+![ex3bclient (new)](https://github.com/ikeerthivasanswaminathan/3b_CHAT_USING_TCP_SOCKETS/assets/148937372/75ccf079-5c28-452b-8be8-5c596ac1b161)
 
 Server
 
-![ex3bserver](https://github.com/ikeerthivasanswaminathan/3b_CHAT_USING_TCP_SOCKETS/assets/148937372/ccdde630-90f8-4316-be59-da19728bced7)
+![ex3bserver (new)](https://github.com/ikeerthivasanswaminathan/3b_CHAT_USING_TCP_SOCKETS/assets/148937372/0e6ad9f7-ce47-4a5f-9ab4-60c72952b201)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully created and executed.
